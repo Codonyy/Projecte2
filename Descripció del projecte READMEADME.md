@@ -1,8 +1,8 @@
 # EverPia – Consultoria IT amb ànima educativa
 
 ## si vols anar a les carpetes de tasques
-[tasca2](tasca02/README.md)
-[tasca3](tasca03/README.md)
+[tasca02](tasca02/README.md)
+[tasca03](tasca03/README.md)
 
 Benvinguts a **EverPia**, una consultora IT nascuda amb la missió de **resoldre reptes tecnològics** per a clients molt diversos.  
 Com a nous **consultors júnior**, formareu part d’un equip compromès amb la innovació, el rigor tècnic i el treball col·laboratiu.
