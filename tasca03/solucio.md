@@ -8,4 +8,9 @@
 ![solucio](/tasca03/img/cap7.png) 
 ![solucio](/tasca03/img/cap8.png) 
 ![solucio](/tasca03/img/cap9.png) 
-
+![solucio](/tasca03/img/cap10.png) 
+![solucio](/tasca03/img/cap11.png) 
+![solucio](/tasca03/img/cap12.png)
+![solucio](/tasca03/img/cap13.png) 
+![solucio](/tasca03/img/cap14.png) 
+![solucio](/tasca03/img/cap15.png) 
