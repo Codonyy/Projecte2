@@ -1,1 +1,190 @@
 
+# P01: Kanban & Compte de GitHub
+
+## Breu descripció
+
+Aquest producte combina dues eines essencials per al treball professional dins la consultora **EverPia**:
+
+- Gestió visual de tasques amb metodologia **Kanban**
+- Creació i ús d’un repositori personal a **GitHub**
+
+L’objectiu és garantir una organització clara, professional i col·laborativa del projecte.
+
+---
+
+# Objectius del producte
+
+- Organitzar les tasques del projecte de forma visual
+- Facilitar el treball en equip
+- Garantir la traçabilitat del treball realitzat
+- Disposar d’un espai personal de documentació tècnica
+- Aplicar metodologies professionals del sector IT
+
+---
+
+# Part 1: Tauler Kanban (Microsoft Planner)
+
+## Objectiu
+
+Crear un sistema de seguiment de tasques basat en metodologia Kanban.
+
+---
+
+## Estructura del tauler
+
+El tauler conté les següents columnes:
+
+```text
+Backlog
+En curs
+En revisió
+Fet
+```
+
+---
+
+## Funcionament
+
+### Backlog
+
+Conté totes les tasques del projecte:
+
+```text
+T01
+T02
+T03
+T04
+T05
+T06
+T07
+T08
+T09
+T10
+```
+
+---
+
+### En curs
+
+Tasques actualment en desenvolupament.
+
+---
+
+### En revisió
+
+Tasques pendents de validació o revisió.
+
+---
+
+### Fet
+
+Tasques completades correctament.
+
+---
+
+## Organització del treball
+
+Les tasques es mouen entre columnes segons el seu estat real.
+
+Això permet:
+
+- Veure el progrés del projecte
+- Detectar bloquejos
+- Organitzar millor el temps
+- Millorar la coordinació de l’equip
+
+---
+
+## Lliurable
+
+Enllaç compartit del tauler Kanban de Microsoft Planner.
+
+---
+
+# Part 2: Compte i repositori GitHub
+
+## Objectiu
+
+Disposar d’un espai individual per:
+
+- Documentar el treball
+- Emmagatzemar projectes
+- Mostrar el perfil professional
+
+---
+
+## Configuració realitzada
+
+### Compte GitHub
+
+Creació d’un compte personal associat al correu de l’escola.
+
+---
+
+### Repositori personal
+
+Creació d’un repositori de presentació amb:
+
+```text
+README.md
+```
+
+incloent:
+
+- Presentació personal
+- Informació acadèmica
+- Tecnologies utilitzades
+- Enllaços d’interès
+
+---
+
+## Exemple d’estructura
+
+```text
+README.md
+/images
+/projects
+```
+
+---
+
+# Beneficis professionals
+
+L’ús de GitHub permet:
+
+- Control de versions
+- Treball col·laboratiu
+- Documentació tècnica
+- Portfolio professional
+
+---
+
+# Conclusions
+
+Aquest producte permet treballar amb eines reals utilitzades al sector IT.
+
+La combinació de:
+
+- Kanban
+- GitHub
+
+facilita:
+
+- Organització
+- Coordinació
+- Productivitat
+- Seguiment del projecte
+
+---
+
+# Lliurables
+
+## Kanban
+
+Enllaç al tauler Microsoft Planner.
+
+---
+
+## GitHub
+
+Enllaç al repositori personal de GitHub.
