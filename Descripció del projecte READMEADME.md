@@ -72,16 +72,3 @@ Esperit col·laboratiu
 Benvinguts a **EverPia**.  
 **La vostra història comença avui.**
 
----
-
-##  Autors
-
-**Equip Fundador d’EverPia**  
-Rubén · Isabel · Carles Alonso · Cristian · Carles Fugarolas · Natalia · Núria
-
----
-
-##  Llicència
-
-Aquest projecte està protegit sota la llicència **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**.  
-Podeu reutilitzar, modificar i compartir el contingut amb finalitats educatives i no comercials, sempre citant-ne l’origen.
